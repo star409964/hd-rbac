@@ -1,0 +1,21 @@
+{
+    "name": "mikelang/rbac",
+    "description": "Based on the thinkphp5.1 permissions system development",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "topthink/think": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "wangliang",
+            "email": "15040249808@139.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "star409964\\hd-rbac\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
